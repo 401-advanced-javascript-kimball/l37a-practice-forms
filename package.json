@@ -1,7 +1,12 @@
 {
-  "name": "react-app",
+  "@comment": {
+    "devDependencies": {
+      "react-scripts": "Keep at 3.2.0 until browser launch issue is resolved"
+    }
+  },
+  "name": "demo-redux-form",
   "version": "1.0.0",
-  "description": "## Project Name",
+  "description": "",
   "main": "src/index.js",
   "dependencies": {
     "react": "^16.12.0",
@@ -10,10 +15,12 @@
     "react-redux": "^7.1.3",
     "react-router-dom": "^5.1.2",
     "redux": "^4.0.4",
+    "redux-form": "8.2.6",
     "superagent": "^5.1.0"
   },
   "devDependencies": {
-    "react-scripts": "3.2.0", // Keep at 3.2.0 until browser launch issue is resolved
+    "redux-devtools-extension": "2.13.8",
+    "react-scripts": "3.2.0",
     "react-test-renderer": "^16.12.0",
     "babel-eslint": "^10.0.3",
     "node-sass": "^4.13.0",
