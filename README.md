@@ -1,24 +1,13 @@
-# l37a-practice-forms
+# LAB - 37a - Practice Forms
 
-* [submission PR](https://github.com/401-advanced-javascript-kimball/l37a-practice-forms/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l37a-practice-forms)
+## Redux Forms
 
-# LAB - 
-
-## Project Name
-
-### Author: Student/Group Name
+### Author: Jonathan Kimball
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l37a-practice-forms/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l37a-practice-forms)
 * [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
 #### `modulename.js`
